@@ -6,6 +6,6 @@ This Applicaiton is a restful service using spring boot and it's a text to speec
 
 
 ### Properties
-you will need a application properties setup, contact me if you have problem starting the server
+you will need a application.properties file , contact me if you want it for starting the server
 
 jakobyaro127@hotmail.com
