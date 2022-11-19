@@ -149,4 +149,9 @@ public class AzureTTSService {
             throw new SynthesisException("Synthesis failed!");
         }
     }
+
+
+    public void setVoiceName(String voiceName) {
+        this.voiceName = voiceName;
+    }
 }
